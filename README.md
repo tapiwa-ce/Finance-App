@@ -24,17 +24,17 @@ Below are short previews demonstrating the main interactions of the application.
 <table>
 <tr>
 <td align="center">
-<img src="media/preview.gif" width="250"><br>
+<img src="media/preview.gif" width="175"><br>
 Main Application Flow
 </td>
 
 <td align="center">
-<img src="media/Login.gif" width="250"><br>
+<img src="media/Login.gif" width="175"><br>
 User Login
 </td>
 
 <td align="center">
-<img src="media/Add_Wallet.gif" width="250"><br>
+<img src="media/Add_Wallet.gif" width="175"><br>
 Adding a Wallet
 </td>
 </tr>
@@ -51,7 +51,7 @@ These previews demonstrate how users navigate the application, authenticate thei
 The dashboard serves as the main landing page of the application. It provides users with an overview of their financial status, including total balance, income, expenses, and recent transactions. This view allows users to quickly understand their financial situation without navigating through multiple screens.
 
 <p align="center">
-<img src="media/dashboard.png" width="300">
+<img src="media/dashboard.png" width="180">
 </p>
 
 ---
@@ -61,7 +61,7 @@ The dashboard serves as the main landing page of the application. It provides us
 The statistics page provides visual insights into spending behavior. Charts display weekly, monthly, or yearly spending trends, allowing users to analyze their financial habits and identify patterns in their income and expenses.
 
 <p align="center">
-<img src="media/Stats.png" width="300">
+<img src="media/Stats.png" width="180">
 </p>
 
 ---
@@ -71,7 +71,7 @@ The statistics page provides visual insights into spending behavior. Charts disp
 The wallet screen allows users to create and manage different wallets for organizing their finances. Each wallet can represent a category such as food, savings, or personal spending. This feature helps users keep their financial data structured and easy to manage.
 
 <p align="center">
-<img src="media/Wallet.png" width="300">
+<img src="media/Wallet.png" width="180">
 </p>
 
 ---
