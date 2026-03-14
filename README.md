@@ -21,6 +21,7 @@ Use the navigation bar buttons to move between screens and the **"+" button** to
 
 Below are short previews demonstrating the main interactions of the application.
 
+<div align="center">
 <table>
 <tr>
 <td align="center">
@@ -39,6 +40,7 @@ Adding a Wallet
 </td>
 </tr>
 </table>
+</div>
 
 These previews demonstrate how users navigate the application, authenticate their accounts, and create wallets to manage their finances.
 
